@@ -82,4 +82,13 @@ This project successfully implements a CNN-based multiclass image classifier usi
 ## **Output**
 
 ---
+**Prediction**
 
+![Image](https://github.com/user-attachments/assets/1157efad-0b8a-4543-a4d6-e1de255bb523)
+
+---
+**Result**
+
+![Image](https://github.com/user-attachments/assets/89828001-9aca-4d60-97b5-c4316a7ffcbf)
+
+---
